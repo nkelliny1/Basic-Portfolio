@@ -58,6 +58,8 @@ footer p{
     margin: 20px;
     float: left;
     display: inline-flex;
+    height: 150px;
+    width: 150px;
 }
 
 .about-header{
@@ -70,7 +72,7 @@ footer p{
 }
 
 .row{
-    width: 33%;
+    width: 50%;
 }
 
 .portfolio-item {
@@ -80,12 +82,13 @@ footer p{
 .portfolio-desc {
     display: inline-flex;
     position: absolute;
-    margin-top: 75px;
+    margin-top: 120px;
     margin-left: 20px;
     color: #ffffff;
     background-color: #4aaaa5;
     height: 34px;
-    width: 100px;
+    width: 150px;
+    font-size: 13px;
 }
 
 .portfolio-desc p {
